@@ -1,3 +1,3 @@
 # static-website
 
-My favorite anime is the bear.
+My favorite animal is the bear.
